@@ -12,10 +12,17 @@ code {
     monospace;
 }
 
-#root {
-  background-color: orange;
-}
+
 
 a .nav-link {
-  color: orange;
+  color: #fff;
+}
+
+.fa-solid {
+  margin-right: 5px;
+}
+
+.navbar-custom {
+  background-color: rgb(157, 25, 119);
+
 }
